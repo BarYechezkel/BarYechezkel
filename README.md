@@ -6,7 +6,7 @@
 
 [![Bar Yechezkel's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=BarYechezkel&show_icons=true&theme=dark)](https://github.com/BarYechezkel)
 
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BarYechezkel&layout=compact&theme=dark)](https://github.com/BarYechezkel)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BarYechezkel&layout=compact&theme=dark&langs_count=8)](https://github.com/BarYechezkel)
 
 ### How to reach me
 
