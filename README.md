@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Bar&fontSize=40)
 
-Software developer with 5 years of experience in a development department.  
-Experienced in C, C++, Java, Python and familiar with both hardware integration and system-level debugging.  
-Passionate about solving problems, learning new technologies, and building reliable, efficient code.
+Software developer with 5 years of experience in a development department.
+Skilled in C, C++, Python, Java, and automation development, with strong problem-solving skills and experience in Agile R&D teams. 
+Strong analytical mindset, fast learner, and experienced in working closely with multidisciplinary R&D teams to deliver reliable, efficient software solutions.
 
 ### Skills
 **Programming & Frameworks:** C, C++, Python, Java, Spring Boot  
