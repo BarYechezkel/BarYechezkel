@@ -4,8 +4,9 @@
 
 |                                                                                     Hi there, I'm Bar 👋                                                                                      |                                                                                                    ⚡  Fun stats                                                                                                    |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Bar Yechezkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarYechezkel&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=BarYechezkel&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
+[![Bar Yechezkel's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=BarYechezkel&show_icons=true&theme=dark)](https://github.com/BarYechezkel)
 
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BarYechezkel&layout=compact&theme=dark)](https://github.com/BarYechezkel)
 
 ### How to reach me
 
