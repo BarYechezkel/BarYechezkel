@@ -1,13 +1,33 @@
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Bar&fontSize=40)
 
-[![Bar Yechezkel's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=BarYechezkel&show_icons=true&theme=dark)](https://github.com/BarYechezkel)
+Software developer with 5 years of experience in a development department.  
+Experienced in C, C++, Java, Python and familiar with both hardware integration and system-level debugging.  
+Passionate about solving problems, learning new technologies, and building reliable, efficient code.
 
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BarYechezkel&layout=compact&theme=dark&langs_count=8)](https://github.com/BarYechezkel)
+### Skills
+**Programming & Frameworks:** C, C++, Python, Java, Spring Boot  
+**Databases:** MySQL, MongoDB, Neo4j, PostgreSQL  
+**Tools & DevOps:** Linux, Kubernetes, Git, Jira, Docker, Wireshark  
+**Cloud:** AWS (EC2, RDS)  
+**Methodologies:** Agile, Scrum  
+**Soft Skills:** Teamwork, curiosity, high commitment and responsibility, attention to details  
 
-<img src="https://leetcard.jacoblin.cool/BarYechezkel?theme=dark&font=Fira%20Code&ext=contest" />
+
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BarYechezkel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" width="95%"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BarYechezkel&layout=compact&theme=dark&langs_count=8&hide_border=true" width="95%"/>
+</td> 
+</tr>
+</table>
+
+
+  <img src="https://leetcard.jacoblin.cool/BarYechezkel?theme=dark&font=Fira%20Code&ext=contest" width="40%"/>
+
 
 
 ### How to reach me
