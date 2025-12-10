@@ -26,7 +26,7 @@ Passionate about solving problems, learning new technologies, and building relia
 </table>
 
 
-  <img src="https://leetcard.jacoblin.cool/BarYechezkel?theme=dark&font=Fira%20Code&ext=contest" width="40%"/>
+  <img src="https://leetcard.jacoblin.cool/BarYechezkel?theme=dark&font=Fira%20Code&ext=contest" width="50%"/>
 
 
 
